@@ -42,5 +42,6 @@ To print message in the console, use
 `console.log('your message')` and .. l,,
 
 ```py
-print("test")  
+print("test")
+print("이번엔터미널로깃")
 ```
